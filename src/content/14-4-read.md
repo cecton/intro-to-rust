@@ -1,0 +1,1 @@
+# Lire depuis un fichier

@@ -1,0 +1,18 @@
+[book]
+authors = ["yozhgoor"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Introduction à Rust"
+description = "my vision of Rust programming langage as a beginner in programming"
+
+[rust]
+edition = "2019"
+
+[output.html]
+git-repository-url = "https://github.com/yozhgoor/todo-cli"
+git-repository-icon = "fa-github"
+
+[output.html.search]
+enable = true
+limit-results = 15
