@@ -12,46 +12,44 @@
 
 - [L'écosystème de Rust](./content/6-ecosystem.md)
 
-	- [Outils](./content/6-1-tools.md)
-
-	- [Crates](./content/6-2-crates.md)
-
-	- [Documentation](./content/6-3-doc.md)
-
 # Utilisation de Rust
 
 - [Programmation système](./content/7-system.md)
 
-- [Programmation asynchrone](./content/8-async.md)
+- [Programmation orientée objet](./content/8-object.md)
 
-- [Inter-opérabilité entre langages](./content/9-inter.md)
+- [Programmation asynchrone](./content/9-async.md)
 
-- [Blockchain](./content/10-blockchain.md)
+- [Inter-opérabilité entre langages](./content/10-inter.md)
 
-- [WebAssembly](./content/11-web.md)
+- [Blockchain](./content/11-blockchain.md)
 
-- [Embedded](./content/12-embedded.md)
+- [WebAssembly](./content/12-web.md)
 
-- [Command Line Interface](./content/13-cli.md)
+- [Programmation embarquée](./content/13-embedded.md)
+
+- [Programme en ligne de commande](./content/14-cli.md)
+
+- [Développement de jeu vidéo](./content/15-games.md)
 
 # Projet pratique
 
-- [Créer un programme en ligne de commande](./content/14-create.md)
+- [Créer un programme en ligne de commande](./content/16-create.md)
 
-	- [Commencer avec Rust](./content/14-1-start.md)
+	- [Commencer avec Rust](./content/16-1-start.md)
 
-	- [Insérer et sauvegarder des données](./content/14-2-insert.md)
+	- [Insérer et sauvegarder des données](./content/16-2-insert.md)
 
-	- [Aperçu du concept d'Ownership](./content/14-3-ownership.md)
+	- [Aperçu du concept d'Ownership](./content/16-3-ownership.md)
 
-	- [Lire depuis un fichier](./content/14-4-read.md)
+	- [Lire depuis un fichier](./content/16-4-read.md)
 
-	- [Mettre à jour une valeur](./content/14-5-update.md)
+	- [Mettre à jour une valeur](./content/16-5-update.md)
 
-	- [Tentons de lancer le programme](./content/14-6-run.md)
+	- [Tentons de lancer le programme](./content/16-6-run.md)
 
-	- [Utilisation d'une crate externe](./content/14-7-use.md)
+	- [Utilisation d'une crate externe](./content/16-7-use.md)
 
 # Conclusion
 
-- [Conclusion](./content/15-conclusion.md)
+- [Conclusion](./content/17-conclusion.md)
