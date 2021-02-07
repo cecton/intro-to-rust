@@ -1,7 +1,7 @@
 # Intro to Rust
 
 This book is an introduction to the Rust programming language, intended for those new to programming.
-You can see the online version on [netlify]()
+You can see the online version on [netlify](https://intro-to-rust.netlify.app/)
 
 If you fork this repository:
 
