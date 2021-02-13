@@ -27,10 +27,10 @@ Voici en exemple une fonction pour saluer quelqu'un en fonction de si l'on conna
 
 ```rust, ignore
 fn greet_user(name: Option<String>) {
-	match name {
-		Some(name) => println!("Bonjour, {}", name),
-		None => println!("Bienvenue à vous, étranger!"),
-	}
+    match name {
+        Some(name) => println!("Bonjour, {}", name),
+        None => println!("Bienvenue à vous, étranger!"),
+    }
 }
 ```
 
@@ -38,9 +38,9 @@ Si l'on oublie le cas `None` dans le `match` ou aurait essayé d'utiliser `name`
 
 ```rust
 fn greet_user(name: Option<String>) {
-	match name {
-		Some(name) => println!("Bonjour, {}", name),
-	}
+    match name {
+        Some(name) => println!("Bonjour, {}", name),
+    }
 }
 ```
 > *Note*: n'hésitez pas à tester le code lorsque vous voyez un bouton play dans le bloc de code. Dans ce cas, cela vous permettra de voir l'erreur renvoyé par le compilateur.
