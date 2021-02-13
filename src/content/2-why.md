@@ -1,6 +1,6 @@
 # Pourquoi Rust ?
 
-Rust est un langage de programmation bas-niveau (système), [multi-paradigme](https://en.wikipedia.org/wiki/Programming_paradigm), orienté performances et sécurité. La popularité croissante de Rust crée une opportunité pour les programmeurs de découvrir un mélange de certains des plus grands paradigmes de langage de programmation des langages passés. Par multi-paradigme on entends:
+Rust est un langage de programmation bas-niveau (système), orienté performances et sécurité mais aussi un language [multi-paradigme](https://en.wikipedia.org/wiki/Programming_paradigm) que l'on trouve generalement plus souvent dans les languages haut-niveau tel que C#, Java, Go, Python, JavaScript. La popularité croissante de Rust crée une opportunité pour les programmeurs de découvrir un mélange de certains des plus grands paradigmes de langage de programmation des langages passés. Par multi-paradigme on entends:
 
 * [Programmation concurrente](https://en.wikipedia.org/wiki/Concurrent_computing),
 * [Programmation fonctionnelle](https://en.wikipedia.org/wiki/Functional_programming),
