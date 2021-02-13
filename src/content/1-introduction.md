@@ -2,8 +2,8 @@
 
 Ce livre est une introduction au langage de programmation Rust, destiné aux débutants en programmation. Il est divisé en 3 partie:
 
-* [le langage de programmation Rust](2-why.md);
-* [l'utilisation du langage](7-system.md);
+* [le langage de programmation Rust](2-why.md) ;
+* [l'utilisation du langage](7-system.md) ;
 * [un didacticiel pratique](16-create.md).
 
 La première partie vous expliquera ce qu'est Rust, ses différences avec d'autres langages ainsi qu'un aperçu général autour de ses fonctionnalités. La deuxième partie vous donnera un avant-goût de son utilisation à travers différents domaines de la programmation ainsi que des exemples de cette utilisation. Le dernier chapitre vous montrera comment construire une "Todo" app en ligne de commande en vous expliquant chaque étape
