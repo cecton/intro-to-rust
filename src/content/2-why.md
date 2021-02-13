@@ -8,7 +8,7 @@ Rust est un langage de programmation bas-niveau (système), orienté performance
 * [Programmation impérative](https://en.wikipedia.org/wiki/Imperative_programming),
 * [Programmation structurée](https://en.wikipedia.org/wiki/Structured_programming).
 
-Il a été créé par Graydon Hoare en 2006 en tant que projet personnel pendant qu'il travaillait à [Mozilla](https://research.mozilla.org/) Research. Mozilla à commencé à sponsoriser le projet en 2009 et l'a annoncé en 2010. C'est donc un langage plutôt jeune, La release pre-alpha est arrivé en Janvier 2012 et la première version stable, Rust 1.0, est sortie le 15 mai 2015.
+Il a été créé par Graydon Hoare en 2006 en tant que projet personnel pendant qu'il travaillait à [Mozilla](https://research.mozilla.org/) Research. Mozilla à commencé à sponsoriser le projet en 2009 et l'a annoncé en 2010. C'est donc un langage plutôt jeune, La release pre-alpha est arrivée en Janvier 2012 et la première version stable, Rust 1.0, est sortie le 15 mai 2015.
 
 En août 2020, Mozilla se voit obligé de se diriger vers une restructuration suite à l'impact de la pandémie de COVID-19. Cette restructuration à visé une grande partie de l'équipe Rust ainsi que l'équipe de [Servo](https://servo.org/) qui a été complétement dissoute. Cette situation a généré beaucoup d'incertitudes et de confusion sur le projet Rust en lui-même. D'un coté, des sociétés comme [AWS (Amazon Web Services)](https://aws.amazon.com/blogs/opensource/aws-sponsorship-of-the-rust-project/) ou [Microsoft](https://www.zdnet.com/article/microsoft-to-explore-using-rust/) ont montré un grand soutien à Rust en investissant et en récupérant des membres de l'équipe Rust ayant quitté Mozilla afin de travailler sur leurs infrastructures.
 
