@@ -12,8 +12,8 @@ Dans cet exemple, le compilateur de Rust infére le type de `twice`, `2`, et `1`
 
 ```rust,ignore
 fn simple_math(value: i32) -> i32 {
-	let twice = value * 2;
-	twice - 1
+    let twice = value * 2;
+    twice - 1
 }
 ```
 
