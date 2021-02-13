@@ -16,9 +16,9 @@ La *Rust Core Team* à alors [annoncé](https://blog.rust-lang.org/2020/08/18/la
 
 Les trois plus gros avantages qu'on connait à ce langage sont les suivants:
 
-* Sécurité et gestion de la mémoire,
-* Accès concurrentiel plus facile grâce au modèle de possession des données,
-* Abstractions à coût nul.
+* sécurité et gestion de la mémoire ;
+* accès concurrentiel plus facile grâce au modèle de possession des données ;
+* abstractions à coût nul.
 
 le langage de programmation Rust a gagné beaucoup d'attention de la communauté. il a également été désigné "langage de programmation le plus aimé" par le [sondage développeur de StackOverflow](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved) chaque année depuis 2016, Ce qui indique que beaucoup de ceux qui ont l'occasion d'utiliser Rust en sont tombés amoureux. Il est très apprécié car il semblerait qu'il puisse résoudre les problèmes présents dans de nombreux autres langages, offrant un pas en avant solide avec un nombre limité d'inconvénients.
 
